@@ -1,7 +1,7 @@
 {
-    "name": "financify",
+    "name": "BudgetBuddy",
     "version": "1.0.0",
-    "description": "A personal finance application that integrates with Canadian banks.",
+    "description": "A personal finance application that integrates with Indian banks.",
     "main": "server.js",
     "scripts": {
         "start": "node server",
