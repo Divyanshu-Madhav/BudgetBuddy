@@ -4,8 +4,8 @@ This is a personal finance application that allows users to link their bank acco
 
 ## Setup
 
-1. `git clone https://github.com/jagodin/personal-finance-app`
-2. `cd personal-finance-app`
+1. `git clone https://github.com/Divyanshu-Madhav/BudgetBuddy.git`
+2. `cd BudgetBuddy`
 3. `npm install`
 4. `npm run dev` to run the development environment.
 
